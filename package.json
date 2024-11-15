@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "git": "^0.1.5",
+    "yauzl-promise": "^4.0.0"
+  }
+}
